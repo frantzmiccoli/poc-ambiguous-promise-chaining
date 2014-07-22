@@ -1,0 +1,9 @@
+{
+  "name": "poc-ambiguous-promise-chaining",
+  "version": "1.0.0",
+  "author": "Fräntz Miccoli",
+  "dependencies": {
+    "q": "^1.0.1"
+  }
+}
+
